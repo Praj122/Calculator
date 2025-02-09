@@ -38,7 +38,7 @@ A simple and user-friendly calculator web application built using HTML, CSS, and
 
 ## Screenshots
 
-![Calculator UI](Screenshot(1079).png)
+![Calculator UI](Screenshot (1079).png)
 
 ## Contributing
 
